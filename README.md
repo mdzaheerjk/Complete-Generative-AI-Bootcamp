@@ -1,6 +1,6 @@
-# 🚀 Complete Generative AI Bootcamp 2026
+# 🚀 Complete Generative AI Bootcamp
 
-A comprehensive, hands-on bootcamp covering everything from foundational machine learning to cutting-edge Generative AI applications. This repository contains curated Jupyter notebooks and resources for mastering Generative AI in 2026.
+A comprehensive, hands-on bootcamp covering everything from foundational machine learning to cutting-edge Generative AI applications. This repository contains curated Jupyter notebooks and resources for mastering Generative AI.
 
 ## 📋 Table of Contents
 
